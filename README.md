@@ -3,6 +3,6 @@ This plugin makes the book "The Scheme Programming Language" found at [https://w
 
 ## How to install
 - Clone the repository
-- Visit chrome://extionsions
+- Visit chrome://extensions/
 - Click "Load Unpacked"
 - Select the folder of this repository
