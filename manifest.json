@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 2,
+
+  "name": "Makes scheme.com/tspl4 readable",
+  "version": "0.1.0",
+  "description": "A simple extension that alters the css off scheme.com/tspl4 to make it more readable.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://www.scheme.com/tspl4/*"]
+  }]
+
+}
